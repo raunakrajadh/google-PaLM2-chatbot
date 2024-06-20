@@ -1,4 +1,4 @@
-# Update `config.js` :
+# Update `config.json` :
 ```json
 {    
     "domain": "", //replace with you domain for socket.io to make connection
